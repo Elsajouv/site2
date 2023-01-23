@@ -1,0 +1,53 @@
+body{
+    background-color: #35B6C5;
+}
+
+/*---------- Barre de navigation ----------*/
+.navbar-light{
+    background-color: #35B6C5 !important;
+}
+
+div.container-fluid{
+    margin-left: 2%;
+    margin-right: 2%;
+} 
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: rgb(15, 15, 15);
+    background-color: #2192b1;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #0d0e0e;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.img-produit{
+    height: 300px;
+}
+
+.img-looks{
+    height: 350px;
+}
+/*---------- Fin Barre de navigation ----------*/
+
+/*---------- Bannière page home ----------*/
+
+.banner{
+    background-image: url("../photo/banniere.jpg");
+    background-size: cover;
+    margin:0 !important;
+    height:900px;
+    color: #35B6C5;
+
+      }
+
+
+/*---------- Bannière page Face ----------*/
+
+/*----------Panier--------*/
+
+  
